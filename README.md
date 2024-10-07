@@ -36,9 +36,9 @@
 
 - **AI Visual Inspection System**  
   Led the development of a visual inspection system using machine learning to improve quality control in the one of the bigest automotive industry in Indonesia. The project involved **image processing**, **deep learning models**,and **software engineering**. The model used in this project is YOLOv8.
-- [Restaurant Management System MVC using Java](https://github.com/alf1511/Restaurant-Management-System-MVC)
+- [Restaurant Management System MVC using Java](https://github.com/alf1511/Restaurant-Management-System-MVC) <br>
   This project is based on a desktop application built using the Java programming language and using the MySQL database. This application is a simple management application for ordering food.
-- [Travel Mates](https://github.com/alf1511/TravelMates)
+- [Travel Mates](https://github.com/alf1511/TravelMates) <br>
   This is an application created to complete the final project of the Software Engineering course. This application is a recommendation app for tourist destinations based on a specific budget input. The app is built using the Django framework. The code in this repository is not complete; it only consists of the authorization process in the application.
 
 
